@@ -3,7 +3,7 @@
   <img src="https://i.pinimg.com/originals/2e/4c/05/2e4c05dd9c3de96d63a8e6f6b0fba9b7.gif" alt="coding anime" width="600"/>
 </p>
 
-# Hi 👋, I'm [Your Name]
+# Hi 👋, I'm HITESH DHAYAL
 
 🚀 **Fullstack Web Developer (MERN)** | 🤖 **Gen-AI Specialist** | 📊 **Learning Data Science & MLOps**
 
