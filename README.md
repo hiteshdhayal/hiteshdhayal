@@ -1,6 +1,6 @@
 <!-- Cool Anime Coding GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/2e/4c/05/2e4c05dd9c3de96d63a8e6f6b0fba9b7.gif" alt="coding anime" width="600"/>
+  <img src="[https://i.pinimg.com/originals/2e/4c/05/2e4c05dd9c3de96d63a8e6f6b0fba9b7.gif](https://tenor.com/view/soulja-boy-pepe-typing-matrix-codes-gif-13307647)" alt="coding anime" width="600"/>
 </p>
 
 # Hi 👋, I'm HITESH DHAYAL
